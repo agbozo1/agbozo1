@@ -16,7 +16,7 @@ Skills: Python | SQL | R | HTML - CSS - JavaScript
  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <h3 align="left">GitHub Stats:</h3>
-[![GitHub Streak](https://streak-stats.demolab.com?user=agbozo1)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=agbozo1"/>
 
 📫 How to reach me: agbozo1@gmail.com 
 
