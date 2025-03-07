@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Ebenezer Agbozo
-Currently a Senior Lecturer @ Ural Federal University and working with the Applied Informatics Graduate Program.
+### Hi there 👋, my name is Ebenezer Agbozo (PhD)
+Senior Lecturer @ Ural Federal University (Applied Informatics Graduate Program)
 
-My research encompasses: Data Analytics, Applied AI, Computational Social Sciences, ICT4D, Human Computer Interaction
+My research encompasses: Applied AI&ML, Data Analytics, Computational Social Sciences, ICT4D, Human Computer Interaction
 
 Skills: Python | SQL | R | HTML - CSS - JavaScript
 
